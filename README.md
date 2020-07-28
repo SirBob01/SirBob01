@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello, there! 👋
+
+I'm Keith, a 19 year old software developer working in a variety of fields.
+My interests range from simple app development to machine learning and game engine design.
+
+
 
 <!--
 **SirBob01/SirBob01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
