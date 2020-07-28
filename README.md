@@ -3,6 +3,8 @@
 I'm Keith, a 19 year old software developer working in a variety of fields.
 My interests range from simple app development to machine learning and game engine design.
 
+Basically anything cool that piques my curiosity... 🤔
+
 ⚡ Check out some of my work below! ⚡
 
 <!--
