@@ -1,6 +1,6 @@
 ## Hello, there! 👋
 
-I'm Keith, a 19 year old software developer working in a variety of fields.
+I'm Keith, a software developer working in a variety of fields.
 My interests range from simple web app development to machine learning and game engine design.
 
 Basically, anything cool that piques my curiosity... 🤔
