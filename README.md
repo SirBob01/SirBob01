@@ -1,12 +1,3 @@
-## Hello, there! 👋
-
-I'm Keith, a software developer working in a variety of fields.
-My interests range from simple web app development to machine learning and game engine design.
-
-Basically, anything cool that piques my curiosity... 🤔
-
-⚡ Check out some of my work below! ⚡
-
 <!--
 **SirBob01/SirBob01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
